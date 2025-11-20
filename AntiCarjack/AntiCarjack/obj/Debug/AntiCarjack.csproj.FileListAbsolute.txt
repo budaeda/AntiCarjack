@@ -1,0 +1,16 @@
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\AntiCarjack.dll
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\AntiCarjack.pdb
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\Assembly-CSharp.dll
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\Rocket.API.dll
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\Rocket.Core.dll
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\Rocket.Unturned.dll
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\SDG.NetTransport.dll
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\UnityEngine.dll
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\obj\Debug\AntiCarjack.csproj.AssemblyReference.cache
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\obj\Debug\AntiCarjack.csproj.CoreCompileInputs.cache
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\obj\Debug\AntiCarjack.csproj.CopyComplete
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\obj\Debug\AntiCarjack.dll
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\obj\Debug\AntiCarjack.pdb
+C:\Users\caspi\source\repos\AntiCarjack\AntiCarjack\bin\Debug\Newtonsoft.Json.dll
