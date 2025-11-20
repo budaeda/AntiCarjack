@@ -3,7 +3,7 @@
 # About
 This Plugin Is A Simple Solution To Trolls Griefing Other Players Vehicle. The Plugin Stops Players From Carjacking Vehicles Not Locked By Them Or Outside Of Their Steam Group
 
-- Stops Carjacking And Flinging Into Space Vehicles That Dont Belong To Them
+- Stops Players Carjacking And Flinging Into Space Vehicles That Dont Belong To Them
 - Allows For Players Inside The Vehicle Owners Group To Carjack The Vehicle
 - Allows For Admins To Be Ignored By The Carjack Prevention
 
